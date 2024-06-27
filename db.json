@@ -1,0 +1,16 @@
+{
+  "pedras": [
+    "ametista",
+    "diamante",
+    "esmeralda",
+    "rubi",
+    "safira"
+  ],
+  "numeros": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ]
+}
